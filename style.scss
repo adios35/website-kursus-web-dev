@@ -148,7 +148,7 @@ header {
     }
   }
 }
-//main-section
+//main-article
 main {
   transition: all ease-in-out 0.3s;
   overflow: hidden;
@@ -538,12 +538,12 @@ footer {
         right: 0;
     }
   }
-  section.About {
+  article.About {
     .col1 {
       width: 100%;
     }
   }
-  section,
+  article,
   .card-wrapper {
     flex-direction: column;
     align-items: center;
